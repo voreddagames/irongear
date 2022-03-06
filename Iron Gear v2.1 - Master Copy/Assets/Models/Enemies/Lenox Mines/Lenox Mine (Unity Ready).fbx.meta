@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 5f5a78733b35e5443a6e48a770d8a493
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 2nd_Gear
+    100002: 3rd_Gear
+    100004: Bulb_Glass
+    100006: Cinema4D_Editor
+    100008: Gear_Pulley
+    100010: //RootNode
+    100012: Lenox_Mine
+    100014: Main_Gear
+    100016: Main_Rod
+    100018: Mine_Base
+    100020: Otometer_Source
+    100022: Spiral_Exhaust
+    400000: 2nd_Gear
+    400002: 3rd_Gear
+    400004: Bulb_Glass
+    400006: Cinema4D_Editor
+    400008: Gear_Pulley
+    400010: //RootNode
+    400012: Lenox_Mine
+    400014: Main_Gear
+    400016: Main_Rod
+    400018: Mine_Base
+    400020: Otometer_Source
+    400022: Spiral_Exhaust
+    2300000: 2nd_Gear
+    2300002: 3rd_Gear
+    2300004: Bulb_Glass
+    2300006: Gear_Pulley
+    2300008: Main_Gear
+    2300010: Main_Rod
+    2300012: Mine_Base
+    2300014: Otometer_Source
+    2300016: Spiral_Exhaust
+    3300000: 2nd_Gear
+    3300002: 3rd_Gear
+    3300004: Bulb_Glass
+    3300006: Gear_Pulley
+    3300008: Main_Gear
+    3300010: Main_Rod
+    3300012: Mine_Base
+    3300014: Otometer_Source
+    3300016: Spiral_Exhaust
+    4300000: Spiral_Exhaust
+    4300002: Otometer_Source
+    4300004: Main_Rod
+    4300006: Main_Gear
+    4300008: 3rd_Gear
+    4300010: 2nd_Gear
+    4300012: Gear_Pulley
+    4300014: Mine_Base
+    4300016: Bulb_Glass
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cinema4D_Editor
+        weight: 1
+      - path: Lenox_Mine
+        weight: 1
+      - path: Lenox_Mine/2nd_Gear
+        weight: 1
+      - path: Lenox_Mine/3rd_Gear
+        weight: 1
+      - path: Lenox_Mine/Bulb_Glass
+        weight: 1
+      - path: Lenox_Mine/Gear_Pulley
+        weight: 1
+      - path: Lenox_Mine/Main_Gear
+        weight: 1
+      - path: Lenox_Mine/Main_Rod
+        weight: 1
+      - path: Lenox_Mine/Mine_Base
+        weight: 1
+      - path: Lenox_Mine/Otometer_Source
+        weight: 1
+      - path: Lenox_Mine/Spiral_Exhaust
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

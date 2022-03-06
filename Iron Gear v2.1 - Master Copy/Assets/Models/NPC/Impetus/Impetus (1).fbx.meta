@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 730c8b2dd3db7c24ba5ebf3e096e3606
+timeCreated: 1440284699
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2nd_Gear
+    100002: 3rd_Gear
+    100004: 3rd_Gear_Coil_Connector
+    100006: Bulb_1
+    100008: Bulb_2
+    100010: Bulb_3
+    100012: Bulb_Caps
+    100014: Central_Spark
+    100016: Coil_1
+    100018: Coil_2
+    100020: Coil_3
+    100022: Coils___nodes
+    100024: Forward_Bank_
+    100026: Forward_Shielding_Bank_
+    100028: Front_Arm_Caster
+    100030: Front_Push_Bar
+    100032: //RootNode
+    100034: Light_Node_1
+    100036: Light_Node_2
+    100038: Light_Node_3
+    100040: Main_Gear
+    100042: Rear_Arm_Caster
+    100044: Rear_Bank
+    100046: Rear_Push_Bar_
+    100048: Rear_Shielding_Bank
+    400000: 2nd_Gear
+    400002: 3rd_Gear
+    400004: 3rd_Gear_Coil_Connector
+    400006: Bulb_1
+    400008: Bulb_2
+    400010: Bulb_3
+    400012: Bulb_Caps
+    400014: Central_Spark
+    400016: Coil_1
+    400018: Coil_2
+    400020: Coil_3
+    400022: Coils___nodes
+    400024: Forward_Bank_
+    400026: Forward_Shielding_Bank_
+    400028: Front_Arm_Caster
+    400030: Front_Push_Bar
+    400032: //RootNode
+    400034: Light_Node_1
+    400036: Light_Node_2
+    400038: Light_Node_3
+    400040: Main_Gear
+    400042: Rear_Arm_Caster
+    400044: Rear_Bank
+    400046: Rear_Push_Bar_
+    400048: Rear_Shielding_Bank
+    2300000: 2nd_Gear
+    2300002: 3rd_Gear
+    2300004: 3rd_Gear_Coil_Connector
+    2300006: Bulb_1
+    2300008: Bulb_2
+    2300010: Bulb_3
+    2300012: Bulb_Caps
+    2300014: Central_Spark
+    2300016: Coil_1
+    2300018: Coil_2
+    2300020: Coil_3
+    2300022: Forward_Bank_
+    2300024: Forward_Shielding_Bank_
+    2300026: Front_Arm_Caster
+    2300028: Front_Push_Bar
+    2300030: Light_Node_1
+    2300032: Light_Node_2
+    2300034: Light_Node_3
+    2300036: Main_Gear
+    2300038: Rear_Arm_Caster
+    2300040: Rear_Bank
+    2300042: Rear_Push_Bar_
+    2300044: Rear_Shielding_Bank
+    3300000: 2nd_Gear
+    3300002: 3rd_Gear
+    3300004: 3rd_Gear_Coil_Connector
+    3300006: Bulb_1
+    3300008: Bulb_2
+    3300010: Bulb_3
+    3300012: Bulb_Caps
+    3300014: Central_Spark
+    3300016: Coil_1
+    3300018: Coil_2
+    3300020: Coil_3
+    3300022: Forward_Bank_
+    3300024: Forward_Shielding_Bank_
+    3300026: Front_Arm_Caster
+    3300028: Front_Push_Bar
+    3300030: Light_Node_1
+    3300032: Light_Node_2
+    3300034: Light_Node_3
+    3300036: Main_Gear
+    3300038: Rear_Arm_Caster
+    3300040: Rear_Bank
+    3300042: Rear_Push_Bar_
+    3300044: Rear_Shielding_Bank
+    4300000: Central_Spark
+    4300002: Front_Arm_Caster
+    4300004: Rear_Arm_Caster
+    4300006: Front_Push_Bar
+    4300008: Rear_Push_Bar_
+    4300010: Forward_Shielding_Bank_
+    4300012: Forward_Bank_
+    4300014: Rear_Shielding_Bank
+    4300016: Rear_Bank
+    4300018: Bulb_3
+    4300020: Bulb_2
+    4300022: Bulb_1
+    4300024: Bulb_Caps
+    4300026: Light_Node_3
+    4300028: Light_Node_2
+    4300030: Light_Node_1
+    4300032: Coil_3
+    4300034: Coil_2
+    4300036: Coil_1
+    4300038: 3rd_Gear_Coil_Connector
+    4300040: 3rd_Gear
+    4300042: 2nd_Gear
+    4300044: Main_Gear
+    7400000: move parts
+    7400002: float around
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: move parts
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2nd_Gear
+        weight: 1
+      - path: 3rd_Gear
+        weight: 1
+      - path: Central_Spark
+        weight: 1
+      - path: Coils___nodes
+        weight: 1
+      - path: Coils___nodes/3rd_Gear_Coil_Connector
+        weight: 1
+      - path: Coils___nodes/Bulb_1
+        weight: 1
+      - path: Coils___nodes/Bulb_2
+        weight: 1
+      - path: Coils___nodes/Bulb_3
+        weight: 1
+      - path: Coils___nodes/Bulb_Caps
+        weight: 1
+      - path: Coils___nodes/Coil_1
+        weight: 1
+      - path: Coils___nodes/Coil_2
+        weight: 1
+      - path: Coils___nodes/Coil_3
+        weight: 1
+      - path: Coils___nodes/Light_Node_1
+        weight: 1
+      - path: Coils___nodes/Light_Node_2
+        weight: 1
+      - path: Coils___nodes/Light_Node_3
+        weight: 1
+      - path: Forward_Bank_
+        weight: 1
+      - path: Forward_Shielding_Bank_
+        weight: 1
+      - path: Front_Arm_Caster
+        weight: 1
+      - path: Front_Push_Bar
+        weight: 1
+      - path: Main_Gear
+        weight: 1
+      - path: Rear_Arm_Caster
+        weight: 1
+      - path: Rear_Bank
+        weight: 1
+      - path: Rear_Push_Bar_
+        weight: 1
+      - path: Rear_Shielding_Bank
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: float around
+      takeName: C4D Animation Take
+      firstFrame: 101
+      lastFrame: 470
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2nd_Gear
+        weight: 1
+      - path: 3rd_Gear
+        weight: 1
+      - path: Central_Spark
+        weight: 1
+      - path: Coils___nodes
+        weight: 1
+      - path: Coils___nodes/3rd_Gear_Coil_Connector
+        weight: 1
+      - path: Coils___nodes/Bulb_1
+        weight: 1
+      - path: Coils___nodes/Bulb_2
+        weight: 1
+      - path: Coils___nodes/Bulb_3
+        weight: 1
+      - path: Coils___nodes/Bulb_Caps
+        weight: 1
+      - path: Coils___nodes/Coil_1
+        weight: 1
+      - path: Coils___nodes/Coil_2
+        weight: 1
+      - path: Coils___nodes/Coil_3
+        weight: 1
+      - path: Coils___nodes/Light_Node_1
+        weight: 1
+      - path: Coils___nodes/Light_Node_2
+        weight: 1
+      - path: Coils___nodes/Light_Node_3
+        weight: 1
+      - path: Forward_Bank_
+        weight: 1
+      - path: Forward_Shielding_Bank_
+        weight: 1
+      - path: Front_Arm_Caster
+        weight: 1
+      - path: Front_Push_Bar
+        weight: 1
+      - path: Main_Gear
+        weight: 1
+      - path: Rear_Arm_Caster
+        weight: 1
+      - path: Rear_Bank
+        weight: 1
+      - path: Rear_Push_Bar_
+        weight: 1
+      - path: Rear_Shielding_Bank
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 5154f069796bc444fb55371b8aaf0bb6
+timeCreated: 1440622297
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Lantern_Light_Source
+    100002: Over_Head_Suspension
+    100004: Over_Head_Suspension_2
+    100006: //RootNode
+    100008: Sloped_Elevatio_Scaffolding
+    100010: Sloped_Elevatio_Scaffolding_1
+    400000: Lantern_Light_Source
+    400002: Over_Head_Suspension
+    400004: Over_Head_Suspension_2
+    400006: //RootNode
+    400008: Sloped_Elevatio_Scaffolding
+    400010: Sloped_Elevatio_Scaffolding_1
+    2300000: Lantern_Light_Source
+    2300002: Over_Head_Suspension
+    2300004: Over_Head_Suspension_2
+    2300006: Sloped_Elevatio_Scaffolding
+    2300008: Sloped_Elevatio_Scaffolding_1
+    3300000: Lantern_Light_Source
+    3300002: Over_Head_Suspension
+    3300004: Over_Head_Suspension_2
+    3300006: Sloped_Elevatio_Scaffolding
+    3300008: Sloped_Elevatio_Scaffolding_1
+    4300000: Sloped_Elevatio_Scaffolding_1
+    4300002: Over_Head_Suspension_2
+    4300004: Over_Head_Suspension
+    4300006: Lantern_Light_Source
+    4300008: Sloped_Elevatio_Scaffolding
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

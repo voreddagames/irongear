@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 44351ae8c8d42d442a8addd03e136926
+timeCreated: 1439074446
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Rail
+    100002: Rail_10
+    100004: Rail_11
+    100006: Rail_12
+    100008: Rail_13
+    100010: Rail_14
+    100012: Rail_15
+    100014: Rail_16
+    100016: Rail_17
+    100018: Rail_18
+    100020: Rail_2
+    100022: Rail_3
+    100024: Rail_4
+    100026: Rail_5
+    100028: Rail_6
+    100030: Rail_7
+    100032: Rail_8
+    100034: Rail_9
+    100036: Track_
+    100038: Track_1
+    100040: Track_10
+    100042: Track_10_2
+    100044: Track_11
+    100046: Track_11_2
+    100048: Track_12
+    100050: Track_12_2
+    100052: Track_13
+    100054: Track_13_2
+    100056: Track_14
+    100058: Track_14_2
+    100060: Track_15
+    100062: Track_15_2
+    100064: Track_16
+    100066: Track_16_2
+    100068: Track_17
+    100070: Track_17_2
+    100072: Track_18
+    100074: Track_18_2
+    100076: Track_2
+    100078: Track_2_2
+    100080: Track_3
+    100082: Track_3_2
+    100084: Track_4
+    100086: Track_4_2
+    100088: Track_5
+    100090: Track_5_2
+    100092: Track_6
+    100094: Track_6_2
+    100096: Track_7
+    100098: Track_7_2
+    100100: Track_8
+    100102: Track_8_2
+    100104: Track_9
+    100106: Track_9_2
+    100108: Tread_1
+    100110: Tread_10
+    100112: Tread_11
+    100114: Tread_12
+    100116: Tread_13
+    100118: Tread_14
+    100120: Tread_15
+    100122: Tread_16
+    100124: Tread_17
+    100126: Tread_18
+    100128: Tread_2
+    100130: Tread_3
+    100132: Tread_4
+    100134: Tread_5
+    100136: Tread_6
+    100138: Tread_7
+    100140: Tread_8
+    100142: Tread_9
+    100144: //RootNode
+    400000: Rail
+    400002: Rail_10
+    400004: Rail_11
+    400006: Rail_12
+    400008: Rail_13
+    400010: Rail_14
+    400012: Rail_15
+    400014: Rail_16
+    400016: Rail_17
+    400018: Rail_18
+    400020: Rail_2
+    400022: Rail_3
+    400024: Rail_4
+    400026: Rail_5
+    400028: Rail_6
+    400030: Rail_7
+    400032: Rail_8
+    400034: Rail_9
+    400036: Track_
+    400038: Track_1
+    400040: Track_10
+    400042: Track_10_2
+    400044: Track_11
+    400046: Track_11_2
+    400048: Track_12
+    400050: Track_12_2
+    400052: Track_13
+    400054: Track_13_2
+    400056: Track_14
+    400058: Track_14_2
+    400060: Track_15
+    400062: Track_15_2
+    400064: Track_16
+    400066: Track_16_2
+    400068: Track_17
+    400070: Track_17_2
+    400072: Track_18
+    400074: Track_18_2
+    400076: Track_2
+    400078: Track_2_2
+    400080: Track_3
+    400082: Track_3_2
+    400084: Track_4
+    400086: Track_4_2
+    400088: Track_5
+    400090: Track_5_2
+    400092: Track_6
+    400094: Track_6_2
+    400096: Track_7
+    400098: Track_7_2
+    400100: Track_8
+    400102: Track_8_2
+    400104: Track_9
+    400106: Track_9_2
+    400108: Tread_1
+    400110: Tread_10
+    400112: Tread_11
+    400114: Tread_12
+    400116: Tread_13
+    400118: Tread_14
+    400120: Tread_15
+    400122: Tread_16
+    400124: Tread_17
+    400126: Tread_18
+    400128: Tread_2
+    400130: Tread_3
+    400132: Tread_4
+    400134: Tread_5
+    400136: Tread_6
+    400138: Tread_7
+    400140: Tread_8
+    400142: Tread_9
+    400144: //RootNode
+    2300000: Tread_1
+    2300002: Tread_10
+    2300004: Tread_11
+    2300006: Tread_12
+    2300008: Tread_13
+    2300010: Tread_14
+    2300012: Tread_15
+    2300014: Tread_16
+    2300016: Tread_17
+    2300018: Tread_18
+    2300020: Tread_2
+    2300022: Tread_3
+    2300024: Tread_4
+    2300026: Tread_5
+    2300028: Tread_6
+    2300030: Tread_7
+    2300032: Tread_8
+    2300034: Tread_9
+    3300000: Tread_1
+    3300002: Tread_10
+    3300004: Tread_11
+    3300006: Tread_12
+    3300008: Tread_13
+    3300010: Tread_14
+    3300012: Tread_15
+    3300014: Tread_16
+    3300016: Tread_17
+    3300018: Tread_18
+    3300020: Tread_2
+    3300022: Tread_3
+    3300024: Tread_4
+    3300026: Tread_5
+    3300028: Tread_6
+    3300030: Tread_7
+    3300032: Tread_8
+    3300034: Tread_9
+    4300000: Tread_18
+    4300002: Tread_17
+    4300004: Tread_16
+    4300006: Tread_15
+    4300008: Tread_14
+    4300010: Tread_13
+    4300012: Tread_12
+    4300014: Tread_11
+    4300016: Tread_10
+    4300018: Tread_9
+    4300020: Tread_8
+    4300022: Tread_7
+    4300024: Tread_6
+    4300026: Tread_5
+    4300028: Tread_4
+    4300030: Tread_3
+    4300032: Tread_2
+    4300034: Tread_1
+    7400000: Spin
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Spin
+      takeName: C4D Animation Take
+      firstFrame: 5
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Track_1
+        weight: 1
+      - path: Track_1/Rail
+        weight: 1
+      - path: Track_1/Track_
+        weight: 1
+      - path: Track_1/Tread_1
+        weight: 1
+      - path: Track_2
+        weight: 1
+      - path: Track_2/Rail_2
+        weight: 1
+      - path: Track_2/Track_2_2
+        weight: 1
+      - path: Track_2/Tread_2
+        weight: 1
+      - path: Track_3
+        weight: 1
+      - path: Track_3/Rail_3
+        weight: 1
+      - path: Track_3/Track_3_2
+        weight: 1
+      - path: Track_3/Tread_3
+        weight: 1
+      - path: Track_4
+        weight: 1
+      - path: Track_4/Rail_4
+        weight: 1
+      - path: Track_4/Track_4_2
+        weight: 1
+      - path: Track_4/Tread_4
+        weight: 1
+      - path: Track_5
+        weight: 1
+      - path: Track_5/Rail_5
+        weight: 1
+      - path: Track_5/Track_5_2
+        weight: 1
+      - path: Track_5/Tread_5
+        weight: 1
+      - path: Track_6
+        weight: 1
+      - path: Track_6/Rail_6
+        weight: 1
+      - path: Track_6/Track_6_2
+        weight: 1
+      - path: Track_6/Tread_6
+        weight: 1
+      - path: Track_7
+        weight: 1
+      - path: Track_7/Rail_7
+        weight: 1
+      - path: Track_7/Track_7_2
+        weight: 1
+      - path: Track_7/Tread_7
+        weight: 1
+      - path: Track_8
+        weight: 1
+      - path: Track_8/Rail_8
+        weight: 1
+      - path: Track_8/Track_8_2
+        weight: 1
+      - path: Track_8/Tread_8
+        weight: 1
+      - path: Track_9
+        weight: 1
+      - path: Track_9/Rail_9
+        weight: 1
+      - path: Track_9/Track_9_2
+        weight: 1
+      - path: Track_9/Tread_9
+        weight: 1
+      - path: Track_10
+        weight: 1
+      - path: Track_10/Rail_10
+        weight: 1
+      - path: Track_10/Track_10_2
+        weight: 1
+      - path: Track_10/Tread_10
+        weight: 1
+      - path: Track_11
+        weight: 1
+      - path: Track_11/Rail_11
+        weight: 1
+      - path: Track_11/Track_11_2
+        weight: 1
+      - path: Track_11/Tread_11
+        weight: 1
+      - path: Track_12
+        weight: 1
+      - path: Track_12/Rail_12
+        weight: 1
+      - path: Track_12/Track_12_2
+        weight: 1
+      - path: Track_12/Tread_12
+        weight: 1
+      - path: Track_13
+        weight: 1
+      - path: Track_13/Rail_13
+        weight: 1
+      - path: Track_13/Track_13_2
+        weight: 1
+      - path: Track_13/Tread_13
+        weight: 1
+      - path: Track_14
+        weight: 1
+      - path: Track_14/Rail_14
+        weight: 1
+      - path: Track_14/Track_14_2
+        weight: 1
+      - path: Track_14/Tread_14
+        weight: 1
+      - path: Track_15
+        weight: 1
+      - path: Track_15/Rail_15
+        weight: 1
+      - path: Track_15/Track_15_2
+        weight: 1
+      - path: Track_15/Tread_15
+        weight: 1
+      - path: Track_16
+        weight: 1
+      - path: Track_16/Rail_16
+        weight: 1
+      - path: Track_16/Track_16_2
+        weight: 1
+      - path: Track_16/Tread_16
+        weight: 1
+      - path: Track_17
+        weight: 1
+      - path: Track_17/Rail_17
+        weight: 1
+      - path: Track_17/Track_17_2
+        weight: 1
+      - path: Track_17/Tread_17
+        weight: 1
+      - path: Track_18
+        weight: 1
+      - path: Track_18/Rail_18
+        weight: 1
+      - path: Track_18/Track_18_2
+        weight: 1
+      - path: Track_18/Tread_18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

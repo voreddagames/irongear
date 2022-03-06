@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: f46fbcaf3c8b9bd498c82ca5d0e202f9
+timeCreated: 1441404242
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Center_Beam
+    100004: Engine_
+    100006: Engine_Gauge
+    100008: Gauge_1
+    100010: Gauge_2
+    100012: Gauge_3
+    100014: Large_Tumbler_
+    100016: Large_Tumbler_2
+    100018: Left_Crank_Hinge
+    100020: Left_Hydrolic_Cylinder
+    100022: Light_Bulb
+    100024: Pistons
+    100026: Right_Crank_Hinge
+    100028: Right_Hydrolic_Cylinder
+    100030: Skin
+    100032: Small_Tumbler_1
+    100034: Small_Tumbler_2
+    100036: //RootNode
+    100038: Turret_body
+    100040: Turret_Wheel_Connector
+    400000: Barrel
+    400002: Center_Beam
+    400004: Engine_
+    400006: Engine_Gauge
+    400008: Gauge_1
+    400010: Gauge_2
+    400012: Gauge_3
+    400014: Large_Tumbler_
+    400016: Large_Tumbler_2
+    400018: Left_Crank_Hinge
+    400020: Left_Hydrolic_Cylinder
+    400022: Light_Bulb
+    400024: Pistons
+    400026: Right_Crank_Hinge
+    400028: Right_Hydrolic_Cylinder
+    400030: Skin
+    400032: Small_Tumbler_1
+    400034: Small_Tumbler_2
+    400036: //RootNode
+    400038: Turret_body
+    400040: Turret_Wheel_Connector
+    2300000: Barrel
+    2300002: Engine_
+    2300004: Engine_Gauge
+    2300006: Gauge_1
+    2300008: Gauge_2
+    2300010: Gauge_3
+    2300012: Large_Tumbler_
+    2300014: Large_Tumbler_2
+    2300016: Light_Bulb
+    2300018: Small_Tumbler_1
+    2300020: Small_Tumbler_2
+    2300022: Turret_body
+    2300024: Turret_Wheel_Connector
+    3300000: Barrel
+    3300002: Engine_
+    3300004: Engine_Gauge
+    3300006: Gauge_1
+    3300008: Gauge_2
+    3300010: Gauge_3
+    3300012: Large_Tumbler_
+    3300014: Large_Tumbler_2
+    3300016: Light_Bulb
+    3300018: Small_Tumbler_1
+    3300020: Small_Tumbler_2
+    3300022: Turret_body
+    3300024: Turret_Wheel_Connector
+    4300000: Pistons
+    4300002: Barrel
+    4300004: Turret_body
+    4300006: Gauge_3
+    4300008: Gauge_2
+    4300010: Gauge_1
+    4300012: Engine_
+    4300014: Engine_Gauge
+    4300016: Light_Bulb
+    4300018: Turret_Wheel_Connector
+    4300020: Large_Tumbler_
+    4300022: Small_Tumbler_1
+    4300024: Small_Tumbler_2
+    4300026: Large_Tumbler_2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Pistons
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Barrel
+        weight: 1
+      - path: Center_Beam
+        weight: 1
+      - path: Center_Beam/Left_Crank_Hinge
+        weight: 1
+      - path: Center_Beam/Left_Crank_Hinge/Left_Hydrolic_Cylinder
+        weight: 1
+      - path: Center_Beam/Right_Crank_Hinge
+        weight: 1
+      - path: Center_Beam/Right_Crank_Hinge/Right_Hydrolic_Cylinder
+        weight: 1
+      - path: Engine_
+        weight: 1
+      - path: Engine_/Engine_Gauge
+        weight: 1
+      - path: Engine_/Light_Bulb
+        weight: 1
+      - path: Large_Tumbler_
+        weight: 1
+      - path: Large_Tumbler_2
+        weight: 1
+      - path: Pistons
+        weight: 1
+      - path: Pistons/Skin
+        weight: 1
+      - path: Small_Tumbler_1
+        weight: 1
+      - path: Small_Tumbler_2
+        weight: 1
+      - path: Turret_body
+        weight: 1
+      - path: Turret_body/Gauge_1
+        weight: 1
+      - path: Turret_body/Gauge_2
+        weight: 1
+      - path: Turret_body/Gauge_3
+        weight: 1
+      - path: Turret_Wheel_Connector
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

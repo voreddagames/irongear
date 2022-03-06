@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: dc8b9bb17d648924989006c86a2f582d
+timeCreated: 1621878886
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Left_Plate
+    100002: Back_RIght_Plate
+    100004: Blade_Band
+    100006: Chest_Light_Source_2
+    100008: //RootNode
+    100010: CL8_TON
+    100012: Eye_Glass
+    100014: Flaps_and_Hinges
+    100016: HeadTip
+    100018: Hips
+    100020: L_Arm
+    100022: L_Foot
+    100024: L_ForeArm_
+    100026: L_Hand
+    100028: L_IndexFinger1
+    100030: L_IndexFinger2
+    100032: L_IndexFinger3
+    100034: L_IndexFingerTip
+    100036: L_Leg
+    100038: L_LegUp
+    100040: L_MiddleFinger1
+    100042: L_MiddleFinger2
+    100044: L_MiddleFinger3
+    100046: L_MiddleFingerTip
+    100048: L_PinkyFinger1
+    100050: L_PinkyFinger2
+    100052: L_PinkyFinger3
+    100054: L_PinkyFingerTip
+    100056: L_RingFinger1
+    100058: L_RingFinger2
+    100060: L_RingFinger3
+    100062: L_RingFingerTip
+    100064: L_Thumb1
+    100066: L_Thumb2
+    100068: L_ThumbTip
+    100070: L_Toe
+    100072: L_ToeTip
+    100074: Left_Chest_Plate
+    100076: Left_Hand
+    100078: Left_Wench_Hand
+    100080: Legs
+    100082: Melee_Blade
+    100084: Melee_Blade_Arm
+    100086: Neck_
+    100088: Pelvic_Plate_
+    100090: R_Arm
+    100092: R_Foot
+    100094: R_ForeArm_
+    100096: R_Hand
+    100098: R_IndexFinger1
+    100100: R_IndexFinger2
+    100102: R_IndexFinger3
+    100104: R_IndexFingerTip
+    100106: R_Leg
+    100108: R_LegUp
+    100110: R_MiddleFinger1
+    100112: R_MiddleFinger2
+    100114: R_MiddleFinger3
+    100116: R_MiddleFingerTip
+    100118: R_PinkyFinger1
+    100120: R_PinkyFinger2
+    100122: R_PinkyFinger3
+    100124: R_PinkyFingerTip
+    100126: R_RingFinger1
+    100128: R_RingFinger2
+    100130: R_RingFinger3
+    100132: R_RingFingerTip
+    100134: R_Thumb1
+    100136: R_Thumb2
+    100138: R_ThumbTip
+    100140: R_Toe
+    100142: R_ToeTip
+    100144: Right_Chest_Plate
+    100146: Right_Hand
+    100148: Spine_1
+    100150: Spine_2
+    100152: Steam_Gun
+    100154: Wench_Forearm
+    100156: Wench_Handle
+    100158: Wench_Wheel___Cabling
+    400000: Back_Left_Plate
+    400002: Back_RIght_Plate
+    400004: Blade_Band
+    400006: Chest_Light_Source_2
+    400008: //RootNode
+    400010: CL8_TON
+    400012: Eye_Glass
+    400014: Flaps_and_Hinges
+    400016: HeadTip
+    400018: Hips
+    400020: L_Arm
+    400022: L_Foot
+    400024: L_ForeArm_
+    400026: L_Hand
+    400028: L_IndexFinger1
+    400030: L_IndexFinger2
+    400032: L_IndexFinger3
+    400034: L_IndexFingerTip
+    400036: L_Leg
+    400038: L_LegUp
+    400040: L_MiddleFinger1
+    400042: L_MiddleFinger2
+    400044: L_MiddleFinger3
+    400046: L_MiddleFingerTip
+    400048: L_PinkyFinger1
+    400050: L_PinkyFinger2
+    400052: L_PinkyFinger3
+    400054: L_PinkyFingerTip
+    400056: L_RingFinger1
+    400058: L_RingFinger2
+    400060: L_RingFinger3
+    400062: L_RingFingerTip
+    400064: L_Thumb1
+    400066: L_Thumb2
+    400068: L_ThumbTip
+    400070: L_Toe
+    400072: L_ToeTip
+    400074: Left_Chest_Plate
+    400076: Left_Hand
+    400078: Left_Wench_Hand
+    400080: Legs
+    400082: Melee_Blade
+    400084: Melee_Blade_Arm
+    400086: Neck_
+    400088: Pelvic_Plate_
+    400090: R_Arm
+    400092: R_Foot
+    400094: R_ForeArm_
+    400096: R_Hand
+    400098: R_IndexFinger1
+    400100: R_IndexFinger2
+    400102: R_IndexFinger3
+    400104: R_IndexFingerTip
+    400106: R_Leg
+    400108: R_LegUp
+    400110: R_MiddleFinger1
+    400112: R_MiddleFinger2
+    400114: R_MiddleFinger3
+    400116: R_MiddleFingerTip
+    400118: R_PinkyFinger1
+    400120: R_PinkyFinger2
+    400122: R_PinkyFinger3
+    400124: R_PinkyFingerTip
+    400126: R_RingFinger1
+    400128: R_RingFinger2
+    400130: R_RingFinger3
+    400132: R_RingFingerTip
+    400134: R_Thumb1
+    400136: R_Thumb2
+    400138: R_ThumbTip
+    400140: R_Toe
+    400142: R_ToeTip
+    400144: Right_Chest_Plate
+    400146: Right_Hand
+    400148: Spine_1
+    400150: Spine_2
+    400152: Steam_Gun
+    400154: Wench_Forearm
+    400156: Wench_Handle
+    400158: Wench_Wheel___Cabling
+    2300000: Back_Left_Plate
+    2300002: Back_RIght_Plate
+    2300004: Blade_Band
+    2300006: Chest_Light_Source_2
+    2300008: Eye_Glass
+    2300010: Left_Chest_Plate
+    2300012: Left_Wench_Hand
+    2300014: Melee_Blade
+    2300016: Pelvic_Plate_
+    2300018: Right_Chest_Plate
+    2300020: Steam_Gun
+    2300022: Wench_Forearm
+    2300024: Wench_Handle
+    2300026: Wench_Wheel___Cabling
+    3300000: Back_Left_Plate
+    3300002: Back_RIght_Plate
+    3300004: Blade_Band
+    3300006: Chest_Light_Source_2
+    3300008: Eye_Glass
+    3300010: Left_Chest_Plate
+    3300012: Left_Wench_Hand
+    3300014: Melee_Blade
+    3300016: Pelvic_Plate_
+    3300018: Right_Chest_Plate
+    3300020: Steam_Gun
+    3300022: Wench_Forearm
+    3300024: Wench_Handle
+    3300026: Wench_Wheel___Cabling
+    4300000: CL8_TON
+    4300002: Left_Hand
+    4300004: Right_Hand
+    4300006: Legs
+    4300008: Left_Chest_Plate
+    4300010: Right_Chest_Plate
+    4300012: Back_Left_Plate
+    4300014: Back_RIght_Plate
+    4300016: Pelvic_Plate_
+    4300018: Eye_Glass
+    4300020: Steam_Gun
+    4300022: Wench_Forearm
+    4300024: Left_Wench_Hand
+    4300026: Wench_Handle
+    4300028: Wench_Wheel___Cabling
+    4300030: Blade_Band
+    4300032: Melee_Blade
+    4300034: Chest_Light_Source_2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: CL8_TON
+    13700002: Left_Hand
+    13700004: Legs
+    13700006: Right_Hand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 495
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chest_Light_Source_2
+        weight: 1
+      - path: CL8_TON
+        weight: 1
+      - path: Eye_Glass
+        weight: 1
+      - path: Flaps_and_Hinges
+        weight: 1
+      - path: Flaps_and_Hinges/Back_Left_Plate
+        weight: 1
+      - path: Flaps_and_Hinges/Back_RIght_Plate
+        weight: 1
+      - path: Flaps_and_Hinges/Left_Chest_Plate
+        weight: 1
+      - path: Flaps_and_Hinges/Pelvic_Plate_
+        weight: 1
+      - path: Flaps_and_Hinges/Right_Chest_Plate
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/L_LegUp
+        weight: 1
+      - path: Hips/L_LegUp/L_Leg
+        weight: 1
+      - path: Hips/L_LegUp/L_Leg/L_Foot
+        weight: 1
+      - path: Hips/L_LegUp/L_Leg/L_Foot/L_Toe
+        weight: 1
+      - path: Hips/L_LegUp/L_Leg/L_Foot/L_Toe/L_ToeTip
+        weight: 1
+      - path: Hips/R_LegUp
+        weight: 1
+      - path: Hips/R_LegUp/R_Leg
+        weight: 1
+      - path: Hips/R_LegUp/R_Leg/R_Foot
+        weight: 1
+      - path: Hips/R_LegUp/R_Leg/R_Foot/R_Toe
+        weight: 1
+      - path: Hips/R_LegUp/R_Leg/R_Foot/R_Toe/R_ToeTip
+        weight: 1
+      - path: Hips/Spine_1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_IndexFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_IndexFinger1/L_IndexFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_IndexFinger1/L_IndexFinger2/L_IndexFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_IndexFinger1/L_IndexFinger2/L_IndexFinger3/L_IndexFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_MiddleFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_MiddleFinger1/L_MiddleFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_MiddleFinger1/L_MiddleFinger2/L_MiddleFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_MiddleFinger1/L_MiddleFinger2/L_MiddleFinger3/L_MiddleFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_PinkyFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_PinkyFinger1/L_PinkyFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_PinkyFinger1/L_PinkyFinger2/L_PinkyFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_PinkyFinger1/L_PinkyFinger2/L_PinkyFinger3/L_PinkyFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_RingFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_RingFinger1/L_RingFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_RingFinger1/L_RingFinger2/L_RingFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_RingFinger1/L_RingFinger2/L_RingFinger3/L_RingFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_Thumb1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/L_Arm/L_ForeArm_/L_Hand/L_Thumb1/L_Thumb2/L_ThumbTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/Neck_
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/Neck_/HeadTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_IndexFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_IndexFinger1/R_IndexFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_IndexFinger1/R_IndexFinger2/R_IndexFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_IndexFinger1/R_IndexFinger2/R_IndexFinger3/R_IndexFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_MiddleFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_MiddleFinger1/R_MiddleFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_MiddleFinger1/R_MiddleFinger2/R_MiddleFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_MiddleFinger1/R_MiddleFinger2/R_MiddleFinger3/R_MiddleFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_PinkyFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_PinkyFinger1/R_PinkyFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_PinkyFinger1/R_PinkyFinger2/R_PinkyFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_PinkyFinger1/R_PinkyFinger2/R_PinkyFinger3/R_PinkyFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_RingFinger1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_RingFinger1/R_RingFinger2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_RingFinger1/R_RingFinger2/R_RingFinger3
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_RingFinger1/R_RingFinger2/R_RingFinger3/R_RingFingerTip
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_Thumb1
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Hips/Spine_1/Spine_2/R_Arm/R_ForeArm_/R_Hand/R_Thumb1/R_Thumb2/R_ThumbTip
+        weight: 1
+      - path: Left_Hand
+        weight: 1
+      - path: Legs
+        weight: 1
+      - path: Melee_Blade_Arm
+        weight: 1
+      - path: Melee_Blade_Arm/Blade_Band
+        weight: 1
+      - path: Melee_Blade_Arm/Melee_Blade
+        weight: 1
+      - path: Right_Hand
+        weight: 1
+      - path: Steam_Gun
+        weight: 1
+      - path: Wench_Forearm
+        weight: 1
+      - path: Wench_Forearm/Left_Wench_Hand
+        weight: 1
+      - path: Wench_Forearm/Wench_Handle
+        weight: 1
+      - path: Wench_Forearm/Wench_Wheel___Cabling
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

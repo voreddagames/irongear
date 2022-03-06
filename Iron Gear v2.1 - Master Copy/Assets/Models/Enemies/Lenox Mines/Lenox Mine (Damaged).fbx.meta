@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 7c8b5446eee1b634da1036e2cde9ad2d
+timeCreated: 1441338426
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2nd_Gear
+    100002: 3rd_Gear
+    100004: Bulb_Glass
+    100006: CINEMA_4D_Editor
+    100008: Gear_Pulley
+    100010: //RootNode
+    100012: Linox_Mines
+    100014: Main_Gear
+    100016: Main_Rod
+    100018: Mine_Base_1
+    100020: Mine_Base_2
+    100022: Mine_Base_3
+    100024: Mine_Base_4
+    100026: Mine_Base_5
+    100028: Mine_Base_6
+    100030: Mine_Base_7
+    100032: Mine_Base_8
+    100034: Otometer_Source
+    100036: Spiral_Exhaust
+    400000: 2nd_Gear
+    400002: 3rd_Gear
+    400004: Bulb_Glass
+    400006: CINEMA_4D_Editor
+    400008: Gear_Pulley
+    400010: //RootNode
+    400012: Linox_Mines
+    400014: Main_Gear
+    400016: Main_Rod
+    400018: Mine_Base_1
+    400020: Mine_Base_2
+    400022: Mine_Base_3
+    400024: Mine_Base_4
+    400026: Mine_Base_5
+    400028: Mine_Base_6
+    400030: Mine_Base_7
+    400032: Mine_Base_8
+    400034: Otometer_Source
+    400036: Spiral_Exhaust
+    2300000: 2nd_Gear
+    2300002: 3rd_Gear
+    2300004: Bulb_Glass
+    2300006: Gear_Pulley
+    2300008: Main_Gear
+    2300010: Main_Rod
+    2300012: Mine_Base_1
+    2300014: Mine_Base_2
+    2300016: Mine_Base_3
+    2300018: Mine_Base_4
+    2300020: Mine_Base_5
+    2300022: Mine_Base_6
+    2300024: Mine_Base_7
+    2300026: Mine_Base_8
+    2300028: Otometer_Source
+    2300030: Spiral_Exhaust
+    3300000: 2nd_Gear
+    3300002: 3rd_Gear
+    3300004: Bulb_Glass
+    3300006: Gear_Pulley
+    3300008: Main_Gear
+    3300010: Main_Rod
+    3300012: Mine_Base_1
+    3300014: Mine_Base_2
+    3300016: Mine_Base_3
+    3300018: Mine_Base_4
+    3300020: Mine_Base_5
+    3300022: Mine_Base_6
+    3300024: Mine_Base_7
+    3300026: Mine_Base_8
+    3300028: Otometer_Source
+    3300030: Spiral_Exhaust
+    4300000: Mine_Base_8
+    4300002: Mine_Base_7
+    4300004: Mine_Base_6
+    4300006: Mine_Base_5
+    4300008: Mine_Base_4
+    4300010: Mine_Base_3
+    4300012: Mine_Base_2
+    4300014: Mine_Base_1
+    4300016: Gear_Pulley
+    4300018: 2nd_Gear
+    4300020: 3rd_Gear
+    4300022: Main_Gear
+    4300024: Main_Rod
+    4300026: Bulb_Glass
+    4300028: Otometer_Source
+    4300030: Spiral_Exhaust
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

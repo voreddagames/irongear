@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: da85ceb3793c9a5468f3ea91839dc39a
+timeCreated: 1439675321
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Canvas
+    100002: Cylinder
+    100004: Ear_Crank
+    100006: Ear_Crank_2
+    100008: Ear_Crank_3
+    100010: Ear_Crank_4
+    100012: Ear_Crank_5
+    100014: Ear_Crank_6
+    100016: Extrude
+    100018: Gears_1
+    100020: Gears_2
+    100022: Gears_3
+    100024: Gears_4
+    100026: Gears_5
+    100028: Gears_6
+    100030: Head_Gear
+    100032: Head_Gear_1
+    100034: Head_Gear_1_2
+    100036: Head_Gear_1_3
+    100038: Head_Gear_1_4
+    100040: Head_Gear_1_5
+    100042: Head_Gear_1_6
+    100044: Head_Gear_2
+    100046: Head_Gear_2_10
+    100048: Head_Gear_2_11
+    100050: Head_Gear_2_12
+    100052: Head_Gear_2_13
+    100054: Head_Gear_2_2
+    100056: Head_Gear_2_3
+    100058: Head_Gear_2_4
+    100060: Head_Gear_2_5
+    100062: Head_Gear_2_6
+    100064: Head_Gear_2_7
+    100066: Head_Gear_2_8
+    100068: Head_Gear_2_9
+    100070: Head_Gear_3
+    100072: Head_Gear_3_2
+    100074: Head_Gear_3_3
+    100076: Head_Gear_3_4
+    100078: Head_Gear_3_5
+    100080: Head_Gear_3_6
+    100082: Head_Gear_3_7
+    100084: Head_Gear_4
+    100086: Head_Gear_5
+    100088: Head_Gear_6
+    100090: Head_Gear_6_2
+    100092: Head_Gear_6_3
+    100094: Head_Gear_6_4
+    100096: Head_Gear_6_5
+    100098: Head_Gear_6_6
+    100100: Head_Gear_6_7
+    100102: Jaw
+    100104: Large_Head_Gear
+    100106: Large_Head_Gear_2
+    100108: Large_Head_Gear_2_2
+    100110: Large_Head_Gear_2_3
+    100112: Large_Head_Gear_2_4
+    100114: Large_Head_Gear_2_5
+    100116: Large_Head_Gear_2_6
+    100118: Large_Head_Gear_2_7
+    100120: Large_Head_Gear_3
+    100122: Large_Head_Gear_4
+    100124: Large_Head_Gear_5
+    100126: Large_Head_Gear_6
+    100128: Neck
+    100130: //RootNode
+    100132: Start_Game
+    100134: X
+    400000: Canvas
+    400002: Cylinder
+    400004: Ear_Crank
+    400006: Ear_Crank_2
+    400008: Ear_Crank_3
+    400010: Ear_Crank_4
+    400012: Ear_Crank_5
+    400014: Ear_Crank_6
+    400016: Extrude
+    400018: Gears_1
+    400020: Gears_2
+    400022: Gears_3
+    400024: Gears_4
+    400026: Gears_5
+    400028: Gears_6
+    400030: Head_Gear
+    400032: Head_Gear_1
+    400034: Head_Gear_1_2
+    400036: Head_Gear_1_3
+    400038: Head_Gear_1_4
+    400040: Head_Gear_1_5
+    400042: Head_Gear_1_6
+    400044: Head_Gear_2
+    400046: Head_Gear_2_10
+    400048: Head_Gear_2_11
+    400050: Head_Gear_2_12
+    400052: Head_Gear_2_13
+    400054: Head_Gear_2_2
+    400056: Head_Gear_2_3
+    400058: Head_Gear_2_4
+    400060: Head_Gear_2_5
+    400062: Head_Gear_2_6
+    400064: Head_Gear_2_7
+    400066: Head_Gear_2_8
+    400068: Head_Gear_2_9
+    400070: Head_Gear_3
+    400072: Head_Gear_3_2
+    400074: Head_Gear_3_3
+    400076: Head_Gear_3_4
+    400078: Head_Gear_3_5
+    400080: Head_Gear_3_6
+    400082: Head_Gear_3_7
+    400084: Head_Gear_4
+    400086: Head_Gear_5
+    400088: Head_Gear_6
+    400090: Head_Gear_6_2
+    400092: Head_Gear_6_3
+    400094: Head_Gear_6_4
+    400096: Head_Gear_6_5
+    400098: Head_Gear_6_6
+    400100: Head_Gear_6_7
+    400102: Jaw
+    400104: Large_Head_Gear
+    400106: Large_Head_Gear_2
+    400108: Large_Head_Gear_2_2
+    400110: Large_Head_Gear_2_3
+    400112: Large_Head_Gear_2_4
+    400114: Large_Head_Gear_2_5
+    400116: Large_Head_Gear_2_6
+    400118: Large_Head_Gear_2_7
+    400120: Large_Head_Gear_3
+    400122: Large_Head_Gear_4
+    400124: Large_Head_Gear_5
+    400126: Large_Head_Gear_6
+    400128: Neck
+    400130: //RootNode
+    400132: Start_Game
+    400134: X
+    2300000: Canvas
+    2300002: Cylinder
+    2300004: Ear_Crank
+    2300006: Ear_Crank_2
+    2300008: Ear_Crank_3
+    2300010: Ear_Crank_4
+    2300012: Ear_Crank_5
+    2300014: Ear_Crank_6
+    2300016: Head_Gear
+    2300018: Head_Gear_1
+    2300020: Head_Gear_1_2
+    2300022: Head_Gear_1_3
+    2300024: Head_Gear_1_4
+    2300026: Head_Gear_1_5
+    2300028: Head_Gear_1_6
+    2300030: Head_Gear_2
+    2300032: Head_Gear_2_10
+    2300034: Head_Gear_2_11
+    2300036: Head_Gear_2_12
+    2300038: Head_Gear_2_13
+    2300040: Head_Gear_2_2
+    2300042: Head_Gear_2_3
+    2300044: Head_Gear_2_4
+    2300046: Head_Gear_2_5
+    2300048: Head_Gear_2_6
+    2300050: Head_Gear_2_7
+    2300052: Head_Gear_2_8
+    2300054: Head_Gear_2_9
+    2300056: Head_Gear_3
+    2300058: Head_Gear_3_2
+    2300060: Head_Gear_3_3
+    2300062: Head_Gear_3_4
+    2300064: Head_Gear_3_5
+    2300066: Head_Gear_3_6
+    2300068: Head_Gear_3_7
+    2300070: Head_Gear_4
+    2300072: Head_Gear_5
+    2300074: Head_Gear_6
+    2300076: Head_Gear_6_2
+    2300078: Head_Gear_6_3
+    2300080: Head_Gear_6_4
+    2300082: Head_Gear_6_5
+    2300084: Head_Gear_6_6
+    2300086: Head_Gear_6_7
+    2300088: Jaw
+    2300090: Large_Head_Gear
+    2300092: Large_Head_Gear_2
+    2300094: Large_Head_Gear_2_2
+    2300096: Large_Head_Gear_2_3
+    2300098: Large_Head_Gear_2_4
+    2300100: Large_Head_Gear_2_5
+    2300102: Large_Head_Gear_2_6
+    2300104: Large_Head_Gear_2_7
+    2300106: Large_Head_Gear_3
+    2300108: Large_Head_Gear_4
+    2300110: Large_Head_Gear_5
+    2300112: Large_Head_Gear_6
+    2300114: Neck
+    2300116: Start_Game
+    2300118: X
+    3300000: Canvas
+    3300002: Cylinder
+    3300004: Ear_Crank
+    3300006: Ear_Crank_2
+    3300008: Ear_Crank_3
+    3300010: Ear_Crank_4
+    3300012: Ear_Crank_5
+    3300014: Ear_Crank_6
+    3300016: Head_Gear
+    3300018: Head_Gear_1
+    3300020: Head_Gear_1_2
+    3300022: Head_Gear_1_3
+    3300024: Head_Gear_1_4
+    3300026: Head_Gear_1_5
+    3300028: Head_Gear_1_6
+    3300030: Head_Gear_2
+    3300032: Head_Gear_2_10
+    3300034: Head_Gear_2_11
+    3300036: Head_Gear_2_12
+    3300038: Head_Gear_2_13
+    3300040: Head_Gear_2_2
+    3300042: Head_Gear_2_3
+    3300044: Head_Gear_2_4
+    3300046: Head_Gear_2_5
+    3300048: Head_Gear_2_6
+    3300050: Head_Gear_2_7
+    3300052: Head_Gear_2_8
+    3300054: Head_Gear_2_9
+    3300056: Head_Gear_3
+    3300058: Head_Gear_3_2
+    3300060: Head_Gear_3_3
+    3300062: Head_Gear_3_4
+    3300064: Head_Gear_3_5
+    3300066: Head_Gear_3_6
+    3300068: Head_Gear_3_7
+    3300070: Head_Gear_4
+    3300072: Head_Gear_5
+    3300074: Head_Gear_6
+    3300076: Head_Gear_6_2
+    3300078: Head_Gear_6_3
+    3300080: Head_Gear_6_4
+    3300082: Head_Gear_6_5
+    3300084: Head_Gear_6_6
+    3300086: Head_Gear_6_7
+    3300088: Jaw
+    3300090: Large_Head_Gear
+    3300092: Large_Head_Gear_2
+    3300094: Large_Head_Gear_2_2
+    3300096: Large_Head_Gear_2_3
+    3300098: Large_Head_Gear_2_4
+    3300100: Large_Head_Gear_2_5
+    3300102: Large_Head_Gear_2_6
+    3300104: Large_Head_Gear_2_7
+    3300106: Large_Head_Gear_3
+    3300108: Large_Head_Gear_4
+    3300110: Large_Head_Gear_5
+    3300112: Large_Head_Gear_6
+    3300114: Neck
+    3300116: Start_Game
+    3300118: X
+    4300000: X
+    4300002: Start_Game
+    4300004: Cylinder
+    4300006: Ear_Crank
+    4300008: Large_Head_Gear
+    4300010: Large_Head_Gear_2
+    4300012: Head_Gear
+    4300014: Head_Gear_1
+    4300016: Head_Gear_2
+    4300018: Head_Gear_2_2
+    4300020: Head_Gear_3
+    4300022: Head_Gear_6
+    4300024: Ear_Crank_2
+    4300026: Large_Head_Gear_2_2
+    4300028: Large_Head_Gear_2_3
+    4300030: Head_Gear_2_3
+    4300032: Head_Gear_1_2
+    4300034: Head_Gear_2_4
+    4300036: Head_Gear_2_5
+    4300038: Head_Gear_3_2
+    4300040: Head_Gear_6_2
+    4300042: Neck
+    4300044: Ear_Crank_3
+    4300046: Large_Head_Gear_3
+    4300048: Large_Head_Gear_2_4
+    4300050: Head_Gear_3_3
+    4300052: Head_Gear_1_3
+    4300054: Head_Gear_2_6
+    4300056: Head_Gear_2_7
+    4300058: Head_Gear_3_4
+    4300060: Head_Gear_6_3
+    4300062: Ear_Crank_4
+    4300064: Large_Head_Gear_4
+    4300066: Large_Head_Gear_2_5
+    4300068: Head_Gear_4
+    4300070: Head_Gear_1_4
+    4300072: Head_Gear_2_8
+    4300074: Head_Gear_2_9
+    4300076: Head_Gear_3_5
+    4300078: Head_Gear_6_4
+    4300080: Ear_Crank_5
+    4300082: Large_Head_Gear_5
+    4300084: Large_Head_Gear_2_6
+    4300086: Head_Gear_5
+    4300088: Head_Gear_1_5
+    4300090: Head_Gear_2_10
+    4300092: Head_Gear_2_11
+    4300094: Head_Gear_3_6
+    4300096: Head_Gear_6_5
+    4300098: Ear_Crank_6
+    4300100: Large_Head_Gear_6
+    4300102: Large_Head_Gear_2_7
+    4300104: Head_Gear_6_6
+    4300106: Head_Gear_1_6
+    4300108: Head_Gear_2_12
+    4300110: Head_Gear_2_13
+    4300112: Head_Gear_3_7
+    4300114: Head_Gear_6_7
+    4300116: Jaw
+    4300118: Canvas
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Canvas
+        weight: 1
+      - path: Extrude
+        weight: 1
+      - path: Extrude/Cylinder
+        weight: 1
+      - path: Extrude/Start_Game
+        weight: 1
+      - path: Gears_1
+        weight: 1
+      - path: Gears_1/Ear_Crank_2
+        weight: 1
+      - path: Gears_1/Head_Gear_1_2
+        weight: 1
+      - path: Gears_1/Head_Gear_2_3
+        weight: 1
+      - path: Gears_1/Head_Gear_2_4
+        weight: 1
+      - path: Gears_1/Head_Gear_2_5
+        weight: 1
+      - path: Gears_1/Head_Gear_3_2
+        weight: 1
+      - path: Gears_1/Head_Gear_6_2
+        weight: 1
+      - path: Gears_1/Large_Head_Gear_2_2
+        weight: 1
+      - path: Gears_1/Large_Head_Gear_2_3
+        weight: 1
+      - path: Gears_1/Neck
+        weight: 1
+      - path: Gears_2
+        weight: 1
+      - path: Gears_2/Ear_Crank
+        weight: 1
+      - path: Gears_2/Head_Gear
+        weight: 1
+      - path: Gears_2/Head_Gear_1
+        weight: 1
+      - path: Gears_2/Head_Gear_2
+        weight: 1
+      - path: Gears_2/Head_Gear_2_2
+        weight: 1
+      - path: Gears_2/Head_Gear_3
+        weight: 1
+      - path: Gears_2/Head_Gear_6
+        weight: 1
+      - path: Gears_2/Large_Head_Gear
+        weight: 1
+      - path: Gears_2/Large_Head_Gear_2
+        weight: 1
+      - path: Gears_3
+        weight: 1
+      - path: Gears_3/Ear_Crank_4
+        weight: 1
+      - path: Gears_3/Head_Gear_1_4
+        weight: 1
+      - path: Gears_3/Head_Gear_2_8
+        weight: 1
+      - path: Gears_3/Head_Gear_2_9
+        weight: 1
+      - path: Gears_3/Head_Gear_3_5
+        weight: 1
+      - path: Gears_3/Head_Gear_4
+        weight: 1
+      - path: Gears_3/Head_Gear_6_4
+        weight: 1
+      - path: Gears_3/Large_Head_Gear_2_5
+        weight: 1
+      - path: Gears_3/Large_Head_Gear_4
+        weight: 1
+      - path: Gears_4
+        weight: 1
+      - path: Gears_4/Ear_Crank_3
+        weight: 1
+      - path: Gears_4/Head_Gear_1_3
+        weight: 1
+      - path: Gears_4/Head_Gear_2_6
+        weight: 1
+      - path: Gears_4/Head_Gear_2_7
+        weight: 1
+      - path: Gears_4/Head_Gear_3_3
+        weight: 1
+      - path: Gears_4/Head_Gear_3_4
+        weight: 1
+      - path: Gears_4/Head_Gear_6_3
+        weight: 1
+      - path: Gears_4/Large_Head_Gear_2_4
+        weight: 1
+      - path: Gears_4/Large_Head_Gear_3
+        weight: 1
+      - path: Gears_5
+        weight: 1
+      - path: Gears_5/Ear_Crank_5
+        weight: 1
+      - path: Gears_5/Head_Gear_1_5
+        weight: 1
+      - path: Gears_5/Head_Gear_2_10
+        weight: 1
+      - path: Gears_5/Head_Gear_2_11
+        weight: 1
+      - path: Gears_5/Head_Gear_3_6
+        weight: 1
+      - path: Gears_5/Head_Gear_5
+        weight: 1
+      - path: Gears_5/Head_Gear_6_5
+        weight: 1
+      - path: Gears_5/Large_Head_Gear_2_6
+        weight: 1
+      - path: Gears_5/Large_Head_Gear_5
+        weight: 1
+      - path: Gears_6
+        weight: 1
+      - path: Gears_6/Ear_Crank_6
+        weight: 1
+      - path: Gears_6/Head_Gear_1_6
+        weight: 1
+      - path: Gears_6/Head_Gear_2_12
+        weight: 1
+      - path: Gears_6/Head_Gear_2_13
+        weight: 1
+      - path: Gears_6/Head_Gear_3_7
+        weight: 1
+      - path: Gears_6/Head_Gear_6_6
+        weight: 1
+      - path: Gears_6/Head_Gear_6_7
+        weight: 1
+      - path: Gears_6/Large_Head_Gear_2_7
+        weight: 1
+      - path: Gears_6/Large_Head_Gear_6
+        weight: 1
+      - path: Jaw
+        weight: 1
+      - path: X
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

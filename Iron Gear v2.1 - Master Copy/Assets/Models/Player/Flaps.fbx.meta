@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: 4f7b44d10f0dbaa4a95475354bf469a0
+timeCreated: 1441338593
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back_Left_Plate
+    100002: Back_RIght_Plate
+    100004: //RootNode
+    100006: Left_Chest_Plate
+    100008: Pelvic_Plate_
+    100010: Right_Chest_Plate
+    400000: Back_Left_Plate
+    400002: Back_RIght_Plate
+    400004: //RootNode
+    400006: Left_Chest_Plate
+    400008: Pelvic_Plate_
+    400010: Right_Chest_Plate
+    2300000: Back_Left_Plate
+    2300002: Back_RIght_Plate
+    2300004: Left_Chest_Plate
+    2300006: Pelvic_Plate_
+    2300008: Right_Chest_Plate
+    3300000: Back_Left_Plate
+    3300002: Back_RIght_Plate
+    3300004: Left_Chest_Plate
+    3300006: Pelvic_Plate_
+    3300008: Right_Chest_Plate
+    4300000: Left_Chest_Plate
+    4300002: Right_Chest_Plate
+    4300004: Back_Left_Plate
+    4300006: Back_RIght_Plate
+    4300008: Pelvic_Plate_
+    7400000: LF half open
+    7400002: LF half open to close
+    7400004: LF full open
+    7400006: LF full open to close
+    7400008: BR half open
+    7400010: BR half open to close
+    7400012: BR full open
+    7400014: BR full open to close
+    7400016: BL half open
+    7400018: BL half open to close
+    7400020: BL full open
+    7400022: BL full open to close
+    7400024: hip half open
+    7400026: hip half open to close
+    7400028: hip full open
+    7400030: hip full open to close
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LF half open
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LF half open to close
+      takeName: C4D Animation Take
+      firstFrame: 15
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LF full open
+      takeName: C4D Animation Take
+      firstFrame: 30
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LF full open to close
+      takeName: C4D Animation Take
+      firstFrame: 45
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BR half open
+      takeName: C4D Animation Take
+      firstFrame: 65
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BR half open to close
+      takeName: C4D Animation Take
+      firstFrame: 80
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BR full open
+      takeName: C4D Animation Take
+      firstFrame: 95
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BR full open to close
+      takeName: C4D Animation Take
+      firstFrame: 110
+      lastFrame: 121
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BL half open
+      takeName: C4D Animation Take
+      firstFrame: 130
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BL half open to close
+      takeName: C4D Animation Take
+      firstFrame: 145
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BL full open
+      takeName: C4D Animation Take
+      firstFrame: 160
+      lastFrame: 171
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BL full open to close
+      takeName: C4D Animation Take
+      firstFrame: 175
+      lastFrame: 186
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Left_Plate
+        weight: 1
+      - path: Back_RIght_Plate
+        weight: 1
+      - path: Left_Chest_Plate
+        weight: 1
+      - path: Pelvic_Plate_
+        weight: 1
+      - path: Right_Chest_Plate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

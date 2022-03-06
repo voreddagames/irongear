@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 38095289da3446a4bb5ab747270e3a3c
+timeCreated: 1436292968
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back_Piping_
+    100002: Back_Piping_2_1
+    100004: Back_Piping_3_1
+    100006: Barrel_1
+    100008: Barrel_Rail1_1
+    100010: Barrel_Rail_2_1
+    100012: Barrel_Rail_3_1
+    100014: Center_Beam
+    100016: Engine__1
+    100018: Engine_Gauge
+    100020: Gauge_1
+    100022: Gauge_2
+    100024: Gauge_3
+    100026: Large_Tumbler_1_1
+    100028: Large_Tumbler_2_1
+    100030: Large_Tumbler_4_1
+    100032: Large_Tumbler__3_1
+    100034: Left_Crank_Hinge
+    100036: Left_Hydrolic_Cylinder
+    100038: Light_Bulb_1
+    100040: Piping
+    100042: Piping_1_5
+    100044: Pistons
+    100046: Right_Crank_Hinge
+    100048: Right_Hydrolic_Cylinder
+    100050: Small_Tumbler_1_1
+    100052: Small_Tumbler_2_1
+    100054: //RootNode
+    100056: Turret_Base_1
+    100058: Turret_Body_2_1
+    100060: Turret_Body_3_1
+    100062: Turret_Body_4_1
+    100064: Turret_Body_5_1
+    100066: Vent_1_1
+    400000: Back_Piping_
+    400002: Back_Piping_2_1
+    400004: Back_Piping_3_1
+    400006: Barrel_1
+    400008: Barrel_Rail1_1
+    400010: Barrel_Rail_2_1
+    400012: Barrel_Rail_3_1
+    400014: Center_Beam
+    400016: Engine__1
+    400018: Engine_Gauge
+    400020: Gauge_1
+    400022: Gauge_2
+    400024: Gauge_3
+    400026: Large_Tumbler_1_1
+    400028: Large_Tumbler_2_1
+    400030: Large_Tumbler_4_1
+    400032: Large_Tumbler__3_1
+    400034: Left_Crank_Hinge
+    400036: Left_Hydrolic_Cylinder
+    400038: Light_Bulb_1
+    400040: Piping
+    400042: Piping_1_5
+    400044: Pistons
+    400046: Right_Crank_Hinge
+    400048: Right_Hydrolic_Cylinder
+    400050: Small_Tumbler_1_1
+    400052: Small_Tumbler_2_1
+    400054: //RootNode
+    400056: Turret_Base_1
+    400058: Turret_Body_2_1
+    400060: Turret_Body_3_1
+    400062: Turret_Body_4_1
+    400064: Turret_Body_5_1
+    400066: Vent_1_1
+    2300000: Back_Piping_
+    2300002: Back_Piping_2_1
+    2300004: Back_Piping_3_1
+    2300006: Barrel_1
+    2300008: Barrel_Rail1_1
+    2300010: Barrel_Rail_2_1
+    2300012: Barrel_Rail_3_1
+    2300014: Engine__1
+    2300016: Engine_Gauge
+    2300018: Gauge_1
+    2300020: Gauge_2
+    2300022: Gauge_3
+    2300024: Large_Tumbler_1_1
+    2300026: Large_Tumbler_2_1
+    2300028: Large_Tumbler_4_1
+    2300030: Large_Tumbler__3_1
+    2300032: Light_Bulb_1
+    2300034: Piping
+    2300036: Piping_1_5
+    2300038: Small_Tumbler_1_1
+    2300040: Small_Tumbler_2_1
+    2300042: Turret_Base_1
+    2300044: Turret_Body_2_1
+    2300046: Turret_Body_3_1
+    2300048: Turret_Body_4_1
+    2300050: Turret_Body_5_1
+    2300052: Vent_1_1
+    3300000: Back_Piping_
+    3300002: Back_Piping_2_1
+    3300004: Back_Piping_3_1
+    3300006: Barrel_1
+    3300008: Barrel_Rail1_1
+    3300010: Barrel_Rail_2_1
+    3300012: Barrel_Rail_3_1
+    3300014: Engine__1
+    3300016: Engine_Gauge
+    3300018: Gauge_1
+    3300020: Gauge_2
+    3300022: Gauge_3
+    3300024: Large_Tumbler_1_1
+    3300026: Large_Tumbler_2_1
+    3300028: Large_Tumbler_4_1
+    3300030: Large_Tumbler__3_1
+    3300032: Light_Bulb_1
+    3300034: Piping
+    3300036: Piping_1_5
+    3300038: Small_Tumbler_1_1
+    3300040: Small_Tumbler_2_1
+    3300042: Turret_Base_1
+    3300044: Turret_Body_2_1
+    3300046: Turret_Body_3_1
+    3300048: Turret_Body_4_1
+    3300050: Turret_Body_5_1
+    3300052: Vent_1_1
+    4300000: Large_Tumbler_1_1
+    4300002: Large_Tumbler_2_1
+    4300004: Small_Tumbler_2_1
+    4300006: Small_Tumbler_1_1
+    4300008: Large_Tumbler__3_1
+    4300010: Large_Tumbler_4_1
+    4300012: Turret_Body_2_1
+    4300014: Turret_Body_3_1
+    4300016: Turret_Body_4_1
+    4300018: Vent_1_1
+    4300020: Piping
+    4300022: Piping_1_5
+    4300024: Back_Piping_
+    4300026: Back_Piping_2_1
+    4300028: Back_Piping_3_1
+    4300030: Turret_Body_5_1
+    4300032: Turret_Base_1
+    4300034: Light_Bulb_1
+    4300036: Engine__1
+    4300038: Barrel_Rail1_1
+    4300040: Barrel_Rail_2_1
+    4300042: Barrel_Rail_3_1
+    4300044: Barrel_1
+    4300046: Gauge_1
+    4300048: Gauge_2
+    4300050: Gauge_3
+    4300052: Engine_Gauge
+    4300054: Pistons
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: Pistons
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
